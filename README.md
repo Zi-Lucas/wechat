@@ -2,7 +2,7 @@
 
 ##### 1.导入代码，使用composer
 ```
-composer require lucas/wechat:dev-master
+composer require zi-lucas/wechat
 ```
 
 ##### 2.开始使用
